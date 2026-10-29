@@ -86,6 +86,6 @@ enableEmoji = true
 [languages]
   [languages.en]
     weight = 10
-    languageName = "English"
+    label = "English"
     contentDir = "content/en"
 
